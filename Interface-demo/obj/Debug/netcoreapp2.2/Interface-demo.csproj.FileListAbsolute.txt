@@ -1,0 +1,11 @@
+/home/phu/RiderProjects/Interface-demo/Interface-demo/bin/Debug/netcoreapp2.2/Interface-demo.deps.json
+/home/phu/RiderProjects/Interface-demo/Interface-demo/bin/Debug/netcoreapp2.2/Interface-demo.runtimeconfig.json
+/home/phu/RiderProjects/Interface-demo/Interface-demo/bin/Debug/netcoreapp2.2/Interface-demo.runtimeconfig.dev.json
+/home/phu/RiderProjects/Interface-demo/Interface-demo/bin/Debug/netcoreapp2.2/Interface-demo.dll
+/home/phu/RiderProjects/Interface-demo/Interface-demo/bin/Debug/netcoreapp2.2/Interface-demo.pdb
+/home/phu/RiderProjects/Interface-demo/Interface-demo/obj/Debug/netcoreapp2.2/Interface-demo.csprojAssemblyReference.cache
+/home/phu/RiderProjects/Interface-demo/Interface-demo/obj/Debug/netcoreapp2.2/Interface-demo.csproj.CoreCompileInputs.cache
+/home/phu/RiderProjects/Interface-demo/Interface-demo/obj/Debug/netcoreapp2.2/Interface-demo.AssemblyInfoInputs.cache
+/home/phu/RiderProjects/Interface-demo/Interface-demo/obj/Debug/netcoreapp2.2/Interface-demo.AssemblyInfo.cs
+/home/phu/RiderProjects/Interface-demo/Interface-demo/obj/Debug/netcoreapp2.2/Interface-demo.dll
+/home/phu/RiderProjects/Interface-demo/Interface-demo/obj/Debug/netcoreapp2.2/Interface-demo.pdb
